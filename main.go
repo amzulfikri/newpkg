@@ -2,6 +2,6 @@ package newpkg
 
 import "fmt"
 
-func newpkg(){
+func Hello(){
   fmt.Println("hello there")
 }
